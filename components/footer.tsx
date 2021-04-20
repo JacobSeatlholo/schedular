@@ -28,6 +28,8 @@ export function HostedByVercel() {
       rel="noopener noreferrer"
     >
       <div className={styles['secondary-text']}>Created by BusinessHustle</div>
+      <a  href="https://vercel.com" className={cn(styles['footer-link'], styles['footer-logo'])}
+ target="_blank"
       
   );
 }
