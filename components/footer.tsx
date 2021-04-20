@@ -27,9 +27,8 @@ export function HostedByVercel() {
       target="_blank"
       rel="noopener noreferrer"
     >
-      <div className={styles['secondary-text']}>Created by </div>
-      <BusinessHustleLogo color="white" />
-    </a>
+      <div className={styles['secondary-text']}>Created by BusinessHustle</div>
+      
   );
 }
 
