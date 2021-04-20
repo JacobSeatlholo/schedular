@@ -1,7 +1,7 @@
 {
-  "name": "Virtual Event Starter Kit",
-  "short_name": "Virtual Event Starter Kit",
-  "description": "Virtual Event Starter Kit -> https://demo.vercel.events",
+  "name": "Ubuntu #Earthday Webinar",
+  "short_name": "#Earthday Webinar ",
+  "description": "Ubuntu Webinar",
   "display": "standalone",
   "start_url": "/",
   "theme_color": "#fff",
